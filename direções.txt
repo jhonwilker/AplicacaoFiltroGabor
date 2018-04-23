@@ -1,0 +1,7 @@
+2x
+
+sigma 3
+lambda 0
+theta 0-45-90-135-180-225-270-315
+psi 86
+curva 2
